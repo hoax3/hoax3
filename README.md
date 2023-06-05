@@ -14,3 +14,7 @@
 - 📫 How to reach me: Any of the links above.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Used to be a music major 🥲
+
+---
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoax3&langs_count=10&theme=tokyonight&layout=compact" alt="hoax3 :: Top Langs" /></p>
