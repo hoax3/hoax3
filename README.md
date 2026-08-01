@@ -15,4 +15,4 @@
 
 ---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoax3&langs_count=10&theme=tokyonight&layout=compact" alt="hoax3 :: Top Langs" /></p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=vue-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=vue-dark)
